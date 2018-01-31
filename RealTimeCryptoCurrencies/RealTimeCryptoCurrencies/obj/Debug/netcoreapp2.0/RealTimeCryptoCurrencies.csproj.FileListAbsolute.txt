@@ -1,0 +1,22 @@
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.deps.json
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.runtimeconfig.json
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.runtimeconfig.dev.json
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.dll
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.csprojResolveAssemblyReference.cache
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.AssemblyInfoInputs.cache
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.AssemblyInfo.cs
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.pdb
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.dll
+C:\Users\atakankaraca\source\repos\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.pdb
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.deps.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.runtimeconfig.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.runtimeconfig.dev.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.dll
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\bin\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.pdb
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.csprojResolveAssemblyReference.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.csproj.CoreCompileInputs.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.AssemblyInfoInputs.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.AssemblyInfo.cs
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.dll
+C:\Users\atakankaraca\Desktop\SignalR Demo\RealTimeCryptoCurrencies\RealTimeCryptoCurrencies\obj\Debug\netcoreapp2.0\RealTimeCryptoCurrencies.pdb

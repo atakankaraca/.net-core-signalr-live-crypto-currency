@@ -1,0 +1,22 @@
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.deps.json
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.runtimeconfig.json
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.runtimeconfig.dev.json
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.dll
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.csprojResolveAssemblyReference.cache
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.csproj.CoreCompileInputs.cache
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.AssemblyInfoInputs.cache
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.AssemblyInfo.cs
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.pdb
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.dll
+c:\users\atakankaraca\source\repos\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.pdb
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.deps.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.runtimeconfig.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.runtimeconfig.dev.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.dll
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\bin\Debug\netcoreapp2.0\BitcoinService.pdb
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.csprojResolveAssemblyReference.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.csproj.CoreCompileInputs.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.AssemblyInfoInputs.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.AssemblyInfo.cs
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.dll
+C:\Users\atakankaraca\Desktop\SignalR Demo\BitcoinService\BitcoinService\obj\Debug\netcoreapp2.0\BitcoinService.pdb

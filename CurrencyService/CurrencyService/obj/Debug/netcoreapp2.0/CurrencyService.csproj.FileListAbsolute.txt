@@ -1,0 +1,22 @@
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.deps.json
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.runtimeconfig.json
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.runtimeconfig.dev.json
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.dll
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.csprojResolveAssemblyReference.cache
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.csproj.CoreCompileInputs.cache
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.AssemblyInfoInputs.cache
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.AssemblyInfo.cs
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.pdb
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.dll
+C:\Users\atakankaraca\source\repos\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.pdb
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.deps.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.runtimeconfig.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.runtimeconfig.dev.json
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.dll
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\bin\Debug\netcoreapp2.0\CurrencyService.pdb
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.csprojResolveAssemblyReference.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.csproj.CoreCompileInputs.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.AssemblyInfoInputs.cache
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.AssemblyInfo.cs
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.dll
+C:\Users\atakankaraca\Desktop\SignalR Demo\CurrencyService\CurrencyService\obj\Debug\netcoreapp2.0\CurrencyService.pdb

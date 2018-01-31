@@ -1,0 +1,62 @@
+﻿@using Microsoft.AspNetCore.Rewrite.Internal.UrlActions
+@model List<RealTimeCryptoCurrencies.Models.Currency>
+<html>
+<head>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/signalr-client.js"></script>
+    <script>
+        
+        var connection = new signalR.HubConnection('/currencyHub');
+
+        connection.on('ChangeCurrencies', data => {
+            $.each(data, function () {
+
+                oldPrice = $('#C-' + this.symbol).text();
+                if (this.price > parseFloat(oldPrice)) {
+                    $('#C-' + this.symbol).text(data.price);
+                    $('#C-' + this.symbol).removeClass();
+                    $('#C-' + this.symbol).addClass("green");
+                }
+                else if (this.price < parseFloat(oldPrice)) {
+                    $('#C-' + this.symbol).text(data.price);
+                    $('#C-' + this.symbol).removeClass();
+                    $('#C-' + this.symbol).addClass("red");
+                }
+                $('#C-' + this.symbol).text(this.price);
+            });
+        });
+        
+        connection.start();
+    </script>
+</head>
+<body>
+    <div class="currencies">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-6 col-xs-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="group-left">
+                            <img src="images/@item.Symbol-img.png" />
+                            <h3><a href="/home/detail">@item.Name</a></h3>
+                            <h6>@item.Symbol</h6>
+                        </div>
+                        <div class="group-right">
+                            @if (item.Symbol == "BTCUSDT")
+                            {
+                                <h3> $</h3>
+                            }
+                            else
+                            {
+                                <h3> BTC</h3>
+                            }<h1 id="C-@item.Symbol">@item.Price</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>
